@@ -1,0 +1,20 @@
+p.p-reg {
+    background-color: rgb(255, 182, 193);
+    font-family: Veranda, DejaVu Sans, sans-serif;
+}
+
+div.Number2 {
+    color: rgb(37, 99, 235);
+    font-size: 36px;
+}
+
+div.Number4 {
+    background-color: rgb(144, 238, 144);
+    font-size: 24px;
+    font-weight: bold;
+}
+
+p.p-Big {
+    font-size: 24px;
+}
+
