@@ -3,12 +3,12 @@ p.p-reg {
     font-family: Veranda, DejaVu Sans, sans-serif;
 }
 
-div.Number2 {
+#Number2 {
     color: rgb(37, 99, 235);
     font-size: 36px;
 }
 
-div.Number4 {
+#Number4 {
     background-color: rgb(144, 238, 144);
     font-size: 24px;
     font-weight: bold;
